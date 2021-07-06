@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfocosi Mike Focosi
+- 👋 Hi, I’m @mfocosi Mike Focosi - Senior Application Dev at Purdue University in the College of Science and CERIAS (https://ceri.as)
 - 👀 I’m interested in html, javascript, php, python, mysql, postgresql, linux, raspberry pi, arduinos, cybersecurity, baseball
 - 🌱 I’m currently learning on TryHackMe
 - 📫 How to reach me: mfocosi@purdue.edu
